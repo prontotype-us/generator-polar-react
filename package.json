@@ -1,0 +1,11 @@
+{
+  "name": "generator-polar-react",
+  "version": "0.0.1",
+  "description": "Boilerplate for React based web app with Polar",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.17.5"
+  }
+}
